@@ -110,8 +110,3 @@ The analysis is based on two datasets:
 - Include analysis of newly added sports in post-2016 Olympics.  
 - Explore the impact of technological advancements on athlete performance.  
 - Conduct a comparative analysis of underperforming nations to identify areas for growth.  
-
----
-
-## **License**
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
