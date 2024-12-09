@@ -73,8 +73,9 @@ The analysis is based on two datasets:
 ```
 .
 ├── data/
-│   ├── athlete_events.csv
-│   ├── noc_regions.csv
+│   ├── archive.zip
+|       ├── athlete_events.csv
+|       ├── noc_regions.csv
 ├── notebooks/
 │   ├── Olympic_Data_Analysis.ipynb
 ├── README.md
